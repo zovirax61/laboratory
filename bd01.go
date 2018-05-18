@@ -3,22 +3,16 @@ package main
 import "fmt"
 
 const rsc string = "* * * Rossens System Center * * *"
-<<<<<<< HEAD
 const bla string = " "
-=======
 const eto string = "* * * * * * * * * * * * * * * * *"
->>>>>>> testing
 
 func main() {
 
     platform := "plasticlimit welcomes you"
     fmt.Println(eto)
     fmt.Println(rsc)
-<<<<<<< HEAD
     fmt.Println(bla)
-=======
     fmt.Println(eto)
->>>>>>> testing
     fmt.Println(platform)
 
     fmt.Println("hello strange creature" + " that appears to have stepped out of a legend")
