@@ -8,7 +8,7 @@ const eto string = "# * * * * * * * * * * * * * * * #"
 func main() {
 
     platform := "plasticlimit welcomes you"
-    fmt.PPrintln(eto)
+    fmt.Println(eto)
     fmt.Println(rsc)
     fmt.Println(eto)
     fmt.Println(platform)
