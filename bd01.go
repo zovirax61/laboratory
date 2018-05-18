@@ -3,11 +3,14 @@ package main
 import "fmt"
 
 const rsc string = "* * * Rossens System Center * * *"
+const eto string = "* * * * * * * * * * * * * * * * *"
 
 func main() {
 
     platform := "plasticlimit welcomes you"
+    fmt.Println(eto)
     fmt.Println(rsc)
+    fmt.Println(eto)
     fmt.Println(platform)
 
     fmt.Println("hello strange creature" + " that appears to have stepped out of a legend")
