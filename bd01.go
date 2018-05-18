@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-const rsc string = "* * * Rossens System Center * * *"
-const eto string = "* * * * * * * * * * * * * * * * *"
+const rsc string = "# * * Rossens System Center * * #"
+const eto string = "# * * * * * * * * * * * * * * * #"
 
 func main() {
 
