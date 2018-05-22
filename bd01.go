@@ -9,8 +9,8 @@ func main() {
 
     platform := "plasticlimit welcomes you"
     fmt.Println(rsc)
-    fmt.Println(platform)
     fmt.Println(eto)
+    fmt.Println(platform)
 
     fmt.Println("hello strange creature" + " that appears to have stepped out of a legend")
 
